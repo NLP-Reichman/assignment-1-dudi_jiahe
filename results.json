@@ -2,8 +2,25 @@
   "test_preprocess": {
     "vocab_length": 1802
   },
-  "test_lm": "NameError(\"name 'lm' is not defined\")",
-  "test_eval": "NameError(\"name 'lm' is not defined\")",
-  "test_match": "NameError(\"name 'match' is not defined\")",
-  "test_generate": "NameError(\"name 'generate' is not defined\")"
+  "test_lm": {
+    "english_2_gram_length": 746,
+    "english_3_gram_length": 8734,
+    "french_3_gram_length": 8793,
+    "spanish_3_gram_length": 9121
+  },
+  "test_eval": {
+    "english_on_english": -1,
+    "english_on_french": -1,
+    "english_on_spanish": -1
+  },
+  "test_match": "KeyError('source')",
+  "test_generate": {
+    "english_2_gram": "",
+    "english_3_gram": "",
+    "english_4_gram": "",
+    "spanish_2_gram": "",
+    "spanish_3_gram": "",
+    "french_2_gram": "",
+    "french_3_gram": ""
+  }
 }
