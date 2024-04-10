@@ -1,17 +1,17 @@
 {
   "test_preprocess": {
-    "vocab_length": 1802
+    "vocab_length": 1804
   },
   "test_lm": {
-    "english_2_gram_length": 723,
-    "english_3_gram_length": 8733,
-    "french_3_gram_length": 8792,
-    "spanish_3_gram_length": 9120
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8461,
+    "french_3_gram_length": 8504,
+    "spanish_3_gram_length": 8741
   },
   "test_eval": {
-    "english_on_english": -1,
-    "english_on_french": -1,
-    "english_on_spanish": -1
+    "english_on_english": 2719.7,
+    "english_on_french": 2719.7,
+    "english_on_spanish": 2719.7
   },
   "test_match": "KeyError('source')",
   "test_generate": {
