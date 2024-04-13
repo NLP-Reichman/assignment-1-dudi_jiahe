@@ -9,9 +9,9 @@
     "spanish_3_gram_length": 8468
   },
   "test_eval": {
-    "english_on_english": 9.77,
-    "english_on_french": 28.72,
-    "english_on_spanish": 34.22
+    "english_on_english": 14.98,
+    "english_on_french": 25.37,
+    "english_on_spanish": 31.25
   },
   "test_match": "KeyError('source')",
   "test_generate": {
