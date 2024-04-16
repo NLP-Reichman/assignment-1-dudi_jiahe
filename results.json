@@ -14,7 +14,11 @@
     "en_tl": 40.549461236926184,
     "en_nl": 48.345205377638486
   },
-  "test_match": "KeyError('source')",
+  "test_match": {
+    "en_en_3": 10.45574068525379,
+    "en_tl_3": 40.549461236926184,
+    "en_nl_3": 48.345205377638486
+  },
   "test_generate": {
     "english_1_gram": "",
     "english_2_gram": "",
