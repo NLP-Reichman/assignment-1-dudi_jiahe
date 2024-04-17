@@ -20,13 +20,13 @@
     "en_nl_3": 48.345205377638486
   },
   "test_generate": {
-    "english_1_gram": "IIIIIIIIIIIIIIIIIIIII",
-    "english_2_gram": "paebyeeo<e>p aooaaa i ",
-    "english_3_gram": " Aoe8 eo aoapueesp u",
-    "english_4_gram": "rdrr     r r Vr::rcr",
-    "spanish_2_gram": "<e>oo Y aPo .  Loqw   ",
-    "spanish_3_gram": "<e>M  oa     H  e  o ,",
-    "french_2_gram": "g ae :e : e ,: v: :o",
-    "french_3_gram": "  k e   -2 s\u2026\u00e9l mo_ "
+    "english_1_gram": "IIIIIIIIIIIIIIIIIIIIII",
+    "english_2_gram": "I am6DR\ud83e\udd37!uNZ\ud83e\udd37 r_8FZ\ud83d\udcaf7l\u2764Z",
+    "english_3_gram": "I am\u2764_Ma3!rcD19!Lp!o*Glz",
+    "english_4_gram": "I Love\u20262nc& LJcs.Xv28i9Y2r",
+    "spanish_2_gram": "Soy3T\ud83d\ude02\u00e9\u00faJ4n\u00e9cqdIgnv\u201d2Hn",
+    "spanish_3_gram": "Soyc.uPjuBKeMiBDRm?zi_s",
+    "french_2_gram": "Je suis6H(d\u2122\u00e0(\u01537iK\ud83d\ude44v\u0153:ysD8v",
+    "french_3_gram": "Je suisGkHiP7MpFjz7\u00e8W?\u00bb7oDS"
   }
 }
