@@ -20,13 +20,13 @@
     "en_nl_3": 48.345205377638486
   },
   "test_generate": {
-    "english_1_gram": "",
-    "english_2_gram": "",
-    "english_3_gram": "",
-    "english_4_gram": "",
-    "spanish_2_gram": "",
-    "spanish_3_gram": "",
-    "french_2_gram": "",
-    "french_3_gram": ""
+    "english_1_gram": "IIIIIIIIIIIIIIIIIIIII",
+    "english_2_gram": "paebyeeo<e>p aooaaa i ",
+    "english_3_gram": " Aoe8 eo aoapueesp u",
+    "english_4_gram": "rdrr     r r Vr::rcr",
+    "spanish_2_gram": "<e>oo Y aPo .  Loqw   ",
+    "spanish_3_gram": "<e>M  oa     H  e  o ,",
+    "french_2_gram": "g ae :e : e ,: v: :o",
+    "french_3_gram": "  k e   -2 s\u2026\u00e9l mo_ "
   }
 }
