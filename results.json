@@ -9,24 +9,24 @@
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_en": 10.45574068525379,
-    "en_fr": 33.45649608658249,
-    "en_tl": 40.549461236926184,
-    "en_nl": 48.345205377638486
+    "en_en": 9.545168389776634,
+    "en_fr": 32.44232713133329,
+    "en_tl": 39.313594794502976,
+    "en_nl": 46.8092640597831
   },
   "test_match": {
-    "en_en_3": 10.45574068525379,
-    "en_tl_3": 40.549461236926184,
-    "en_nl_3": 48.345205377638486
+    "en_en_3": 9.545168389776634,
+    "en_tl_3": 39.313594794502976,
+    "en_nl_3": 46.8092640597831
   },
   "test_generate": {
     "english_1_gram": "I IIIIIIIIIIIIIIIIIIIII",
-    "english_2_gram": "I am 6DR\ud83e\udd37!uNZ\ud83e\udd37 r_8FZ\ud83d\udcaf7l\u2764Z",
-    "english_3_gram": "I am \u2764_Ma3!rcD19!Lp!o*Glz",
-    "english_4_gram": "I Love \u20262nc& LJcs.Xv28i9Y2r",
-    "spanish_2_gram": "Soy 3T\ud83d\ude02\u00e9\u00faJ4n\u00e9cqdIgnv\u201d2Hn",
-    "spanish_3_gram": "Soy c.uPjuBKeMiBDRm?zi_s",
-    "french_2_gram": "Je suis 6H(d\u2122\u00e0(\u01537iK\ud83d\ude44v\u0153:ysD8v",
-    "french_3_gram": "Je suis GkHiP7MpFjz7\u00e8W?\u00bb7oDS"
+    "english_2_gram": "I am D].KFU3ZkY!|.iP trCq",
+    "english_3_gram": "I am _Kas\u2026<e>",
+    "english_4_gram": "I Love 20: HUN TeleggMJacko",
+    "spanish_2_gram": "Soy T@OilLN_CZVBG6wdekm*",
+    "spanish_3_gram": "Soy ..\ud83d\udc4d\ud83d\udc4d @btJ34qEa \ud83d\udc9c<e>",
+    "french_2_gram": "Je suis Hv6/hOhxAL]!C\u2026ho6JEB",
+    "french_3_gram": "Je suis kaga, YELQJBGamOj<e>"
   }
 }
